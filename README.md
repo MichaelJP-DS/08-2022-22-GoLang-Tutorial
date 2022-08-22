@@ -1,1 +1,1 @@
-# 08-2022-22-GoLang-Tutorial
+GoLang Tutorial*
